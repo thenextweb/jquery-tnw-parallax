@@ -8,10 +8,9 @@
     "url": "https://github.com/oscaralexander/jquery-tnw-parallax/issues"
   },
   "dependencies": {
-    "jquery": "^3.2.1",
-    "lodash": "^4.17.4"
+    "jquery": "^3.2.1"
   },
-  "description": "jQuery plugins for parallax scrolling.",
+  "description": "jQuery plugin for parallax scrolling.",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
