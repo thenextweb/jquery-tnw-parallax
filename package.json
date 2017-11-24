@@ -2,10 +2,10 @@
   "author": {
     "name": "Alexander Griffioen",
     "email": "alexander@thenextweb.com",
-    "url": "https://github.com/oscaralexander"
+    "url": "https://github.com/thenextweb"
   },
   "bugs": {
-    "url": "https://github.com/oscaralexander/jquery-tnw-parallax/issues"
+    "url": "https://github.com/thenextweb/jquery-tnw-parallax/issues"
   },
   "dependencies": {
     "jquery": "^3.2.1"
