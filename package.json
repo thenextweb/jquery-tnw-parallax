@@ -33,7 +33,7 @@
     "plugin"
   ],
   "license": "MIT",
-  "main": "./src/jquery.tnw-parallax.js",
+  "main": "./dist/jquery.tnw-parallax.js",
   "name": "jquery-tnw-parallax",
   "repository": {
     "type": "git",
